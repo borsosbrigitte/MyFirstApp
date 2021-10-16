@@ -9,4 +9,3 @@ namespace MyFirstApp
             Console.WriteLine("Hello World!");
         }
     }
-}
